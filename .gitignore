@@ -167,3 +167,4 @@ wLSTM_CO2/models/
 wLSTM_allenv/models/
 =======
 >>>>>>> origin/master
+*.dat
